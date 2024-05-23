@@ -1,0 +1,6 @@
+ipywidgets
+voila
+jinja2
+matplotlib
+pandas
+numpy
